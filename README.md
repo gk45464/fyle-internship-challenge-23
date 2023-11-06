@@ -2,6 +2,12 @@
 
 ## Fyle Frontend Internship Challenge
 
+## Deployment
+{{https://fyle-internship-challenge-23-inky.vercel.app/}}
+if the link will not work then you can refer the video of this project
+
+{{https://drive.google.com/file/d/1zx-9CcKcC2YfJoP4fZK7eoSadBAeM-3L/view?usp=sharing}}
+
 ### Techstack used: 
 
 - Angular 14.x
